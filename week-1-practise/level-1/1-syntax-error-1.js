@@ -1,6 +1,8 @@
 // There is a syntax error in this code. Fix it.
 
-function addNumbers(a b c) {
+// Update: the parameters of the addNumbers function did not have commas to separate them in line 3
+
+function addNumbers(a, b, c) {
     return a + b + c;
 }
 
